@@ -1,3 +1,8 @@
+-=(TK2000_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # MiSTer port of TK2000 (Apple-II clone)
 
 #### original TK2000 by Victor Trucco
